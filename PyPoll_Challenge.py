@@ -112,8 +112,8 @@ with open(file_to_save, "w") as txt_file:
     # 7: Print the county with the largest turnout to the terminal.
     largest_county_turnout = (
         f"\n-------------------------\n"
-        f"Largest County Turnout: {largest_county_turnout}/r/n"
-        f"-------------------------/r/n")
+        f"Largest County Turnout: {largest_county_turnout}\n"
+        f"-------------------------\n")
     print(largest_county_turnout)
 
     # 8: Save the county with the largest turnout to a text file.
@@ -134,14 +134,14 @@ with open(file_to_save, "w") as txt_file:
         txt_file.write(candidate_results)
 
         # Determine winning vote count, winning percentage, and candidate.
-    if (votes > winning_count) and (vote_percentage > winning_percentage):
+        if (votes > winning_count) and (vote_percentage > winning_percentage):
             winning_count = votes
             winning_candidate = candidate_name
             winning_percentage = vote_percentage
 
     # Print the winning candidate (to terminal)
     winning_candidate_summary = (
-        f"-------------------------\n"
+        f"\n-------------------------\n"
         f"Winner: {winning_candidate}\n"
         f"Winning Vote Count: {winning_count:,}\n"
         f"Winning Percentage: {winning_percentage:.1f}%\n"
@@ -149,4 +149,5 @@ with open(file_to_save, "w") as txt_file:
     print(winning_candidate_summary)
 
     # Save the winning candidate's name to the text file
+    
     txt_file.write(winning_candidate_summary)
