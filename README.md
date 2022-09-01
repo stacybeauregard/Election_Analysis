@@ -8,16 +8,19 @@ After working with Seth to write some code to analyze the county congressional e
 
 ![election results](https://github.com/stacybeauregard/Election_Analysis/blob/main/resources/Election%20Results.png)
 
-- In total, there were 369,711 votes cast from the three counties of Jefferson, Denver, and Arapahoe.
+### County Results
+ In total, there were 369,711 votes cast from the three counties of Jefferson, Denver, and Arapahoe.
   - Jefferson: *38,855* votes *10.5%* of total votes
   - Denver: *306,055* votes *82.8%* of total votes
   - Arapahoe: *24,801* votes *6.7%* of total votes
  
  ![county results]()
  
-- **Denver County** had the most votes in the district with *306,055*
+### County Winner
 
-- Individual candidate Results:
+**Denver County** had the most votes in the district with *306,055*
+
+### Individual Candidate Results:
   
   - Charles Casper Stockham: *85,213* with *23.0%*
   - Diana DeGette: *272,892* with *73.8*
@@ -25,7 +28,7 @@ After working with Seth to write some code to analyze the county congressional e
   
 ![candidate results]()
 
-- Winning Candidate
+### Winning Candidate
 
 **Diana DeGette** has won the election with *272,892* votes with *73.8%*!
 
