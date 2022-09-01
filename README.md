@@ -16,15 +16,15 @@ After working with Seth to write some code to analyze the county congressional e
  
  ![county results](https://github.com/stacybeauregard/Election_Analysis/blob/main/resources/county%20results.png)
  
-### County Winner
+### Largest County Turnout
 
 **Denver County** had the most votes in the district with *306,055*
 
 ### Individual Candidate Results:
   
   - Charles Casper Stockham: *85,213* with *23.0%*
-  - Diana DeGette: *272,892* with *73.8*
-  - Raymon Anthony Doane: *11,606* with *3.1*
+  - Diana DeGette: *272,892* with *73.8%*
+  - Raymon Anthony Doane: *11,606* with *3.1%*
   
 ![candidate results](https://github.com/stacybeauregard/Election_Analysis/blob/main/resources/candidate%20results.png)
 
