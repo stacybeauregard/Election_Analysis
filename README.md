@@ -14,7 +14,7 @@ After working with Seth to write some code to analyze the county congressional e
   - Denver: *306,055* votes *82.8%* of total votes
   - Arapahoe: *24,801* votes *6.7%* of total votes
  
- ![county results]()
+ ![county results](https://github.com/stacybeauregard/Election_Analysis/blob/main/resources/county%20results.png)
  
 ### County Winner
 
@@ -26,13 +26,13 @@ After working with Seth to write some code to analyze the county congressional e
   - Diana DeGette: *272,892* with *73.8*
   - Raymon Anthony Doane: *11,606* with *3.1*
   
-![candidate results]()
+![candidate results](https://github.com/stacybeauregard/Election_Analysis/blob/main/resources/candidate%20results.png)
 
 ### Winning Candidate
 
 **Diana DeGette** has won the election with *272,892* votes with *73.8%*!
 
-![winner]()
+![winner](https://github.com/stacybeauregard/Election_Analysis/blob/main/resources/winner.png)
 
 ## Summary
 
